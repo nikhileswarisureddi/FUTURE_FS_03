@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    text-align: center;
+    background: #f8f8f8;
+}
+
+header {
+    background: #2c3e50;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+section {
+    padding: 50px;
+}
+
+#home {
+    background: #ecf0f1;
+}
+
+button {
+    padding: 10px 20px;
+    background: #2c3e50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    padding: 10px;
+    background: white;
+    margin: 10px auto;
+    width: 200px;
+    border-radius: 5px;
+}
